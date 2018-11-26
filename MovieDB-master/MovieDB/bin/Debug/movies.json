@@ -1,0 +1,42 @@
+[
+    {
+        "Year": "2009",
+        "Author": {
+            "Name": "Marvel",
+            "Birthday": "1960"
+        },
+        "Title": "Avengers"
+    },
+    {
+        "Year": "2006",
+        "Author": {
+            "Name": "DC",
+            "Birthday": "1965"
+        },
+        "Title": "Superman"
+    },
+    {
+        "Year": "1954",
+        "Author": {
+            "Name": "Azerfilm",
+            "Birthday": "1956"
+        },
+        "Title": "O olmasin bu olsun"
+    },
+    {
+        "Year": "1960",
+        "Author": {
+            "Name": "Azerfilm",
+            "Birthday": "1956"
+        },
+        "Title": "Arsin mal alan"
+    },
+    {
+        "Year": "2010",
+        "Author": {
+            "Name": "Marvel",
+            "Birthday": "1960"
+        },
+        "Title": "Deadpool"
+    }
+]

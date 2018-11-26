@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MovieDB-master\MovieDB\bin\Debug\MovieDB.exe.config
+C:\Users\User\Desktop\MovieDB-master\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\User\Desktop\MovieDB-master\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\User\Desktop\MovieDB-master\MovieDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MovieDB-master\MovieDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MovieDB-master\MovieDB\obj\Debug\MovieDB.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MovieDB-master\MovieDB\obj\Debug\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieDB-master\MovieDB\obj\Debug\MovieDB.csproj.CopyComplete
+C:\Users\User\Desktop\MovieDB-master\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\User\Desktop\MovieDB-master\MovieDB\obj\Debug\MovieDB.pdb
